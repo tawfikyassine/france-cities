@@ -1,5 +1,5 @@
-# france-cities
-France cities update 2023 from official data.gouv.fr data in many format available in the file final_cities.json enjoy!
+# france cities (les villes de la France en json)
+Updated France Cities Data for 2023: Comprehensive Dataset from Official Data.gouv.fr in Multiple Formats (final_cities.json). Explore and Enjoy!
 
 # note : 
 - json data version 03/2023
